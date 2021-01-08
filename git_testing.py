@@ -1,3 +1,5 @@
 print("hello world")
 print('Hey its me enemy!')
 print("yo")
+print('8===D')
+print('lol')
